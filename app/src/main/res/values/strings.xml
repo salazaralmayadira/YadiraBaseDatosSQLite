@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YadiraBaseDatosSQLite</string>
+    <string name="Mprincipal">Menu Principal</string>
+    <string name="tbtnregistara">Registrar</string>
+    <string name="toRegistra">Opcion de registro</string>
+    <string name="INombre">Ingresa tu Nombre</string>
+    <string name="IEdad">Ingresa tu Edad</string>
+    <string name="ISexo">Ingresa tu Sexo</string>
+    <string name="RbtnRegistrar">Registra</string>
+</resources>
